@@ -14,4 +14,3 @@ Tic Tac Toe iOS App Source Code (Swift 3.1.1)
   3. Deploy app on simulator/iPhone/iPad
   4. Play the game :)
 
-Please leave your reviews and comments on Github @cheenamalhotra/SwiftTacToe :)
