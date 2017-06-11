@@ -2,6 +2,8 @@
 <Author: Cheena Malhotra>
 <Date: 10 June 2017>
 
+<h1>Tic Tac Toe </h1>
+
 Tic Tac Toe iOS App Source Code (Swift 3.1.1)
 
 - This is a simple Tic Tac Toe game for iOS
